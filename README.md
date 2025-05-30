@@ -8,6 +8,8 @@ Background:
             requirements. 
             
 Goal: To architect a solution that is secure, scalable, highly available, and cost-effective using AWS. 
+
+
 Requirements: 
               ➢ They are concerned about the security of the application, so they have decided to 
               isolate their network from the rest of the customers virtually. Set-up a secure virtual 
@@ -30,6 +32,8 @@ Requirements:
               analyze it, and display it via a dashboard 
               ➢ The Web application should also be cached globally, so users worldwide can access it 
               with low latency 
+
+              
 Deliverables:  
               ➢ Build the complete solution using CloudFormation, download the .png file and 
               provide the S3 bucket link of images 
